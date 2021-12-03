@@ -1,5 +1,3 @@
-#https://github.com/bludit/bludit/pull/1090
-#<= 3.9.2
 #!/usr/bin/env python3
 import re
 import requests
